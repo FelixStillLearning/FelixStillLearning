@@ -1,9 +1,17 @@
 # Halo! 👋 Saya Felix - The Eternal Student of Code 
 
-<div align="cen## 📊 GitHub Stats & Achievements
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fi### 🐍 [Python Snake Game](https://github.com/FelixStillLearning/SnakeGamePython)
+**Classic meets Modern**: Snake game dengan pixel art graphics, power-ups, dan high score system. Built with Pygame and lots of caffeine!
+*Tech: Python, Pygame, Pixel Art*
+
+### 🖼️ [HurufinApp - Computer Vision](https://github.com/FelixStillLearning/HurufinApp)ause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Universe!;🐍+Python+Enthusiast;🤖+AI+%26+ML+Explorer;🎮+Game+Developer;💰+Trading+System+Builder;🌐+Full-Stack+Web+Dev;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+</div>
+
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <i### 🖼️ [HurufinApp - Computer Vision](https://github.com/FelixStillLearning/HurufinApp)c="https://github-readme-stats.vercel.app/api?username=FelixStillLearning&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Felix's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelixStillLearning&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Felix's GitHub Stats" />
 </div>
 
 <div align="center">
@@ -36,7 +44,10 @@ Thursday   ██████████████████░░░   85%
 Friday     ████████████████░░░░░   75%  🌟 Weekend prep
 Saturday   ██████████████░░░░░░░   65%  🎮 Side projects
 Sunday     ████████████░░░░░░░░░   55%  ☕ Planning & learning
-```https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Universe!;🐍+Python+Enthusiast;🤖+AI+%26+ML+Explorer;🎮+Game+Developer;💰+Trading+System+Builder;🌐+Full-Stack+Web+Dev;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Universe!;🐍+Python+Enthusiast;🤖+AI+%26+ML+Explorer;🎮+Game+Developer;💰+Trading+System+Builder;🌐+Full-Stack+Web+Dev;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -44,7 +55,7 @@ Sunday     ████████████░░░░░░░░░   55%
 Hai! Saya Felix, seorang developer yang hidupnya digerakkan oleh kode dan kopi ☕. Saya percaya bahwa setiap bug adalah kesempatan untuk belajar, dan setiap project adalah petualangan baru!
 
 ### 🌟 What Drives Me:
-- 🔭 **Currently Building**: Project Chimera v2.0 - sistem trading otomatis Solana yang bisa bikin jantung berdebar 💓
+
 - 🎮 **Game Dev Journey**: Dari Snake Game klasik sampai eksperimen AR/VR
 - 🤖 **AI Enthusiast**: Machine Learning models yang kadang lebih pintar dari saya sendiri
 - 🌱 **Eternal Learner**: Dari Python sampai Rust, dari Web Dev sampai Blockchain
