@@ -1,7 +1,7 @@
-# Halo! 👋 Saya Felix - The Eternal Student of Code 
+# Hello! 👋 I'm Felix - A Passionate Software Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Universe!;🐍+Python+Enthusiast;🤖+AI+%26+ML+Explorer;🎮+Game+Developer;💰+Trading+System+Builder;🌐+Full-Stack+Web+Dev;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/index.php?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Innovative+Solutions;Exploring+New+Technologies;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
 ## 📊 GitHub Stats & Achievements
@@ -44,17 +44,17 @@ Sunday     ████████████░░░░░░░░░   55%
 
 ## 🚀 About Me
 
-Hai! Saya Felix, seorang developer yang hidupnya digerakkan oleh kode dan kopi ☕. Saya percaya bahwa setiap bug adalah kesempatan untuk belajar, dan setiap project adalah petualangan baru!
+Hello! I'm Felix, a dedicated software developer driven by a passion for crafting robust and efficient solutions. I believe that every challenge presents an opportunity for learning and innovation.
 
-### 🌟 What Drives Me
+### 🌟 My Focus Areas
 
-- 🎮 **Game Dev Journey**: Dari Snake Game klasik sampai eksperimen AR/VR
-- 🤖 **AI Enthusiast**: Machine Learning models yang kadang lebih pintar dari saya sendiri
-- 🌱 **Eternal Learner**: Dari Python sampai Rust, dari Web Dev sampai Blockchain
-- 👯 **Open for Collab**: Mari bikin sesuatu yang keren bareng!
-- 💬 **Ask me about**: Python tricks, trading algorithms, game development, atau gimana caranya debugging sampai jam 3 pagi
-- 📫 **Reach me**: felixangga077@gmail.com (I reply faster than my code compiles!)
-- ⚡ **Fun fact**: Saya bisa ngoding sambil makan indomie tanpa numpah ke keyboard 🍜
+- 🎮 **Game Development**: From classic game mechanics to modern interactive experiences.
+- 🤖 **AI & Machine Learning**: Developing intelligent systems and exploring data-driven insights.
+- 🌱 **Continuous Learning**: Constantly expanding my knowledge across various programming paradigms and technologies.
+- 🤝 **Collaboration**: Eager to collaborate on impactful projects.
+- 💬 **Expertise**: Python, trading algorithms, game development, and debugging strategies.
+- 📫 **Contact**: felixangga077@gmail.com (I strive for prompt responses!)
+- ⚡ **Fun fact**: I can maintain focus on complex code even with a cup of coffee precariously close to my keyboard.
 
 ## 🛠️ Tech Stack & Arsenal
 
@@ -166,26 +166,24 @@ Hai! Saya Felix, seorang developer yang hidupnya digerakkan oleh kode dan kopi �
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixangga077@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
 
-### 🎉 Fun Facts About Me
+### 🎉 Personal Interests
 
-- 🍕 I can debug while eating pizza without getting grease on the keyboard (professional skill!)
-- 🎵 My code quality improves by 47% when listening to lo-fi hip hop
-- 🌃 Best coding hours: 10 PM - 3 AM (when the world sleeps, bugs awaken)
-- ☕ Coffee-to-code ratio: 1 cup per 50 lines (scientifically proven)
-- 🎮 I've probably spent more time debugging than playing games
-- 🚀 Dream: Building software that doesn't crash on Mondays
+- 💡 **Problem Solving**: Enjoy tackling complex challenges and finding elegant solutions.
+- 📚 **Continuous Learning**: Always eager to explore new technologies and expand my skill set.
+- ☕ **Coffee Enthusiast**: Fueling my coding sessions with a good cup of coffee.
+- 🚶 **Outdoor Activities**: Balancing screen time with walks and fresh air.
 
 </div>
 
-## 💡 Developer Wisdom
+## 💡 My Philosophy
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-### My Programming Philosophy
+### Approach to Development
 
-> *"Every bug is a feature waiting to be discovered, and every feature is a bug waiting to happen. The key is to find the balance between the two while maintaining your sanity and coffee supply."*
+> *"I believe in writing clean, maintainable, and efficient code. My goal is to build solutions that are not only functional but also scalable and robust. Continuous improvement and a collaborative spirit are at the core of my development process."*
 
 ---
 
@@ -194,7 +192,7 @@ Hai! Saya Felix, seorang developer yang hidupnya digerakkan oleh kode dan kopi �
 </div>
 
 <div align="center">
-  <h3>⭐ Thanks for visiting my digital playground! ⭐</h3>
-  <p>Feel free to explore my repositories, fork them, break them, fix them, and let's learn together!</p>
-  <p><strong>Remember:</strong> The best code is the one that works, the second best is the one that's readable, and the third best is the one that doesn't exist! 😄</p>
+  <h3>⭐ Thank you for visiting my profile! ⭐</h3>
+  <p>Feel free to explore my repositories and connect with me. I'm always open to discussing new ideas and potential collaborations.</p>
+  <p><strong>Let's build something amazing together!</strong></p>
 </div>
