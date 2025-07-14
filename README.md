@@ -12,7 +12,7 @@
 
 ## I'm a Software Engineer, Python Enthusiast, AI & ML Explorer
 
-- 🌱 I'm currently learning Advanced AI/ML and Full Stack Development
+- 🌱 I'm currently learning AI/ML and Full Stack Development
 - 👯 I'm looking to collaborate with other developers and open source projects
 - 🥅 2025 Goals: Master Deep Learning, Build production-grade applications, and contribute to open source
 - 🐍 💻 Skilled in Python, JavaScript, Java, C++, and Rust
