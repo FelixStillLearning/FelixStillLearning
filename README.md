@@ -73,7 +73,7 @@
   - 2023 - 2027
 
 - **High School**
-  - Science Major / STEM Focus
+  - Science Major 
   - Graduated with Honors
   - 2020 - 2022
 
