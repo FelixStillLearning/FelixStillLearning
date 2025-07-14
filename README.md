@@ -27,7 +27,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](([https://x.com/AstoriasD48561](https://twitter.com/felixstilllearning#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/felixstilllearning#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/felixstilllearning#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/felix_still_learning#gh-light-mode-only)
