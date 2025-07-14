@@ -27,7 +27,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/felixstilllearning#gh-light-mode-only)
+[![website](./img/twitter-light.svg)]((https://x.com/AstoriasD48561)#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/felixstilllearning#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/felix_still_learning#gh-light-mode-only)
@@ -147,7 +147,6 @@
 - [**HurufinApp - Computer Vision**](https://github.com/FelixStillLearning/HurufinApp) - Character recognition system using OpenCV and ML
 - [**Java Learning Projects**](https://github.com/FelixStillLearning/Java-Projects) - Collection of OOP projects including management systems
 - [**Machine Learning Experiments**](https://github.com/FelixStillLearning/ML-Experiments) - Various ML models and data analysis projects
-- [**Trading Algorithm Development**] - Financial analysis tools and automated trading systems
 - [**Web Development Portfolio**] - Responsive websites using modern frameworks
 - [**Game Development Projects**] - Various game prototypes and interactive applications
 - **Open Source Contributions** - Active contributor to various GitHub repositories
