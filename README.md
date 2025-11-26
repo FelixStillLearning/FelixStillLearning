@@ -1,178 +1,130 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36" alt="Cool Face"/> Hey there! Nice to See You 👋 </h1>
+<h1 align="center">Welcome to My GitHub Portfolio</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Code+Universe!;🐍+Python+Enthusiast;🤖+AI+%26+ML+Explorer;🎮+Game+Developer;💰+Trading+System+Builder;🌐+Full-Stack+Web+Dev;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E96F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+Enthusiast;AI+%26+ML+Explorer;Full-Stack+Developer;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </div>
 
-[![Static Badge](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/felixstilllearning/)
-[![Static Badge](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white)](https://auth.geeksforgeeks.org/user/felixangga077)
-[![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b)](https://www.hackerrank.com/profile/felixangga077)
-[![Static Badge](https://img.shields.io/badge/codeforces-%231c97d3?style=for-the-badge&logo=codeforces&logoColor=%23b31f25&labelColor=%23fad262)](https://codeforces.com/profile/felixstilllearning)
-[![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/felixstilllearning)
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/felixstilllearning/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white)](https://auth.geeksforgeeks.org/user/felixangga077)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b)](https://www.hackerrank.com/profile/felixangga077)
+[![Codeforces](https://img.shields.io/badge/codeforces-%231c97d3?style=for-the-badge&logo=codeforces&logoColor=%23b31f25&labelColor=%23fad262)](https://codeforces.com/profile/felixstilllearning)
+[![DevPost](https://img.shields.io/badge/DevPost-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/felixstilllearning)
 
-## I'm a Software Engineer, Python Enthusiast, AI & ML Explorer
+</div>
 
-- 🌱 I'm currently learning AI/ML and Full Stack Development
-- 👯 I'm looking to collaborate with other developers and open source projects
-- 🥅 2025 Goals: Master Deep Learning, Build production-grade applications, and contribute to open source
-- 🐍 💻 Skilled in Python, JavaScript, Java, C++, and Rust
-- 🎯 Effective Problem Solver and Algorithm Enthusiast
-- ⚡ Fun fact: I can debug while eating indomie without spilling on the keyboard 🍜
+---
 
-### 🤝Connect with me
+## 👨‍💻 About Me
 
-[![website](./img/globe-light.svg)](https://felixstilllearning.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://felixstilllearning.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felixstilllearning/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/felixstilllearning#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/felixstilllearning#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/felix_still_learning#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/felix_still_learning#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/felixstilllearning#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/felixstilllearning#gh-dark-mode-only)
+- Currently learning **AI/ML**, **Deep Learning**, and **Full-Stack Development**  
+- Interested in building scalable applications and production-ready systems  
+- Strong foundation in **Python**, **JavaScript**, **Java**, **C++**, and **Rust**  
+- Active in problem-solving, algorithms, and software architecture  
+- 2025 Goals:  
+  - Master advanced ML concepts  
+  - Contribute to open-source  
+  - Build high-impact software projects  
 
-### 🛠️Languages and Tools
+---
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="cpp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="padding-right:10px;" />
-<img align="left" alt="go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+## 🌐 Connect with Me
 
-<br />
-<br />
+[Website](https://felixstilllearning.dev)  
+[LinkedIn](https://www.linkedin.com/in/felixstilllearning/)  
+[Twitter](https://twitter.com/felixstilllearning)  
+[Instagram](https://www.instagram.com/felix_still_learning)  
+[YouTube](https://www.youtube.com/channel/felixstilllearning)
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+Python · JavaScript · Java · C++ · Rust · Go  
+
+**Frontend:**  
+HTML · CSS · React · Next.js  
+
+**Backend:**  
+Node.js · Django · REST API  
+
+**Machine Learning & CV:**  
+TensorFlow · Scikit-learn · OpenCV  
+
+**Databases:**  
+MySQL · PostgreSQL · MongoDB  
+
+**Tools:**  
+Git · GitHub · Docker · VS Code
 
 ---
 
 ## 🎓 Education
 
-- **University**
-  - Bachelor of Science in Computer Science / Information Technology
-  - Currently Pursuing
-  - 2023 - 2027
-
-- **High School**
-  - Science Major 
-  - Graduated with Honors
-  - 2020 - 2022
+- **Bachelor of Computer Science / Information Technology**  
+  2023 – 2027  
+- **Science Major (High School)**  
+  Graduated with honors  
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Projects & Experience
 
-#### 2023 - Present
-#### Self-Taught Developer · Personal Projects
-##### Python Developer & AI Enthusiast
+### Python Developer & AI Enthusiast (2023 – Present)
+- Developed multiple applications using Python  
+- Built computer vision projects with OpenCV  
+- Created trading tools & algorithmic systems  
+- Contributed to open-source and maintained active GitHub activity  
 
-- Developed multiple Python applications including Snake Game with advanced features and scoring system
-- Built computer vision applications using OpenCV and machine learning for character recognition
-- Created trading algorithms and financial analysis tools using Python data science libraries
-- Contributed to open source projects and maintained active GitHub presence with consistent contributions
-
-#### 2022 - 2023
-#### Learning Journey · Various Platforms
-##### Full Stack Web Development
-
-- Completed comprehensive courses in web development including HTML, CSS, JavaScript, and modern frameworks
-- Built responsive web applications using React, Next.js, and modern development tools
-- Gained proficiency in backend development with Node.js, Django, and database management
-- Practiced problem-solving through competitive programming platforms and coding challenges
+### Full Stack Web Development (2022 – 2023)
+- Completed foundational and advanced courses in modern web technologies  
+- Developed responsive, production-ready web applications  
+- Practiced competitive programming and algorithmic problem solving  
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelixStillLearning&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Felix's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelixStillLearning&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixStillLearning&theme=radical&hide_border=true" alt="Felix's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixStillLearning&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-<details>
-  <summary>:zap:Skills</summary>
-  
-<!--START_SECTION:activity-->
-- Data Structures & Algorithms (Python/Java/C++)
-- Machine Learning & AI Development
-- Full Stack Web Development (React, Next.js, Django)
-- Computer Vision & Image Processing
-- Game Development (Pygame, Unity)
-- Database Management (MySQL, PostgreSQL, MongoDB)
-- DevOps & Version Control (Git, GitHub, Docker)
-- Trading Algorithm Development
-- Blockchain & Cryptocurrency
-- Mobile App Development
-- API Development & Integration
-- Problem Solving & Competitive Programming
-- Software Architecture & Design Patterns
-- Agile Development & Teamwork
-- Technical Writing & Documentation
-<!--END_SECTION:activity-->
+## 📁 Highlighted Projects
 
-</details>
+- **Python Snake Game**  
+  Modernized classic with advanced features and optimized scoring system
 
-<details>
-  <summary>📜Projects & Achievements</summary>
+- **HurufinApp – Computer Vision**  
+  Character recognition using ML & OpenCV
 
-- [**Python Snake Game**](https://github.com/FelixStillLearning/SnakeGamePython) - Classic game with modern features, power-ups, and scoring system
-- [**HurufinApp - Computer Vision**](https://github.com/FelixStillLearning/HurufinApp) - Character recognition system using OpenCV and ML
-- [**Java Learning Projects**](https://github.com/FelixStillLearning/Java-Projects) - Collection of OOP projects including management systems
-- [**Machine Learning Experiments**](https://github.com/FelixStillLearning/ML-Experiments) - Various ML models and data analysis projects
-- [**Web Development Portfolio**] - Responsive websites using modern frameworks
-- [**Game Development Projects**] - Various game prototypes and interactive applications
-- **Open Source Contributions** - Active contributor to various GitHub repositories
+- **Java OOP Projects**  
+  Collection of structured software design & object-oriented programs
 
-</details>
+- **ML Experiments**  
+  Exploration of ML models, training pipelines, and analysis workflows
 
-<details>
-  <summary>📜Learning & Certifications</summary>
+- **Web Portfolio Projects**  
+  Full-stack apps built with React, Next.js, and modern tooling  
 
-- **Python Programming** - Advanced level proficiency with data science libraries
-- **Machine Learning Fundamentals** - TensorFlow, Scikit-learn, Computer Vision
-- **Web Development** - Full stack development with modern frameworks
-- **Data Structures & Algorithms** - Problem solving and competitive programming
-- **Game Development** - Pygame and Unity game development
-- **Database Management** - SQL and NoSQL database design and optimization
-- **Version Control** - Git, GitHub workflow and collaboration
-- **Software Engineering Principles** - Clean code, design patterns, and best practices
-
-</details>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelixStillLearning&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FelixStillLearning&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 <div align="center">
-  <h3>⭐ Thanks for visiting my code journey! ⭐</h3>
-  <p>Feel free to explore my repositories, collaborate on projects, and let's build something amazing together!</p>
-  <p><strong>Happy Coding!</strong> 🚀</p>
+  <strong>Thank you for visiting my GitHub.</strong><br/>
+  Let’s collaborate and build something impactful together.
 </div>
