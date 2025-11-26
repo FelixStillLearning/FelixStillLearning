@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to My GitHub Portfolio</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E96F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+Enthusiast;AI+%26+ML+Explorer;Full-Stack+Developer;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
